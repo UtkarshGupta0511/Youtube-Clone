@@ -40,9 +40,16 @@ nav {
 }
 
 .nav-right .user-icon {
-  width: 35px;
+  width: 25px;
   border-radius: 50%;
+  /* height: 25px; */
 }
+
+/* .nav-right .flex-div .user-icon{
+  border-radius: 50%;
+  /* width: 25px;
+  height: 25px; */
+/* } */
 
 @media(max-width:900px){
   .menu-icon{
